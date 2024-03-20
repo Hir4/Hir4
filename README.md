@@ -1,24 +1,27 @@
-# 👨‍💻 Who am I, you ask?
-## Ahoy, Sailors! ⚓️
+# Hello, world! 👋
 
-I'm a Python-powered Data Engineer by day, sailing the seas of data with Docker, Kubernetes, and Airflow. I bring order to the chaos, orchestrating data pipelines with Python as my wand.
+Greetings! I'm a dedicated Data Engineer powered by Python, navigating the vast expanse of data during the daylight hours. With experience in AWS, Postgres, BigQuery, Docker, Kubernetes, and Airflow, I specialize in bringing structure to complexity, adeptly orchestrating data pipelines to drive actionable insights and business success.
 
-- 💻 Full-time Data Engineer, part-time Python sorcerer
-- 🐍 Pythonista, slinging code like a magical spellcaster
-- 🐳 Docker enthusiast, containerizing with a sprinkle of Python magic
-- ☁️ Kubernetes conqueror, orchestrating Python-powered deployments
-- 🌪️ Airflow aficionado, orchestrating Pythonic workflows with elegance
+## Who am I?
 
-### Currently Pursuing
+- 👨‍💻 Full-time Data Engineer, meticulously crafting data solutions
+- 🐍 Python enthusiast, sculpting code with the precision of an artisan
 
-- 🚀 Exploring the cosmos of cloud-native architecture and microservices
-- 🎯 Sharpening my skills in infrastructure as code and CI/CD pipelines
-- 🌐 Building data pipelines that flow with Pythonic grace
+## Education
+
+- 📚 Currently pursuing a degree in Computer Engineering
+- 🎓 Graduated in Systems for Internet - Associates Degree
+
+## Currently, I'm exploring:
+
+- 🚀 Delving into the realm of cloud-native architecture and microservices
+- 🎯 Enhancing proficiency in infrastructure
+- 🌐 Designing data pipelines infused with Pythonic elegance
 
 ## Let's Connect
   
 <div>
-  <a href="https://www.linkedin.com/in/rafael-hideki-hirayama-39a67b190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-hideki-hirayama/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:hirayama.rafael517@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafa_hideki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
